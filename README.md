@@ -3,3 +3,6 @@
 
 # get apikeys
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc7947c1-f419-4a75-8f01-5417af5d66f2" />
+
+# delete apikeys 3
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1320694-23bb-411e-8b67-c0a48e482c0b" />
